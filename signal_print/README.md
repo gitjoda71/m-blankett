@@ -1,5 +1,10 @@
 # M-blankett Signal -> PDF -> Skrivare
 
+> **OBS! Detta projekt ar under utveckling och har annu inte testats fullt ut.**
+> Det ar ett personligt hobbyprojekt. Anvandning sker pa egen risk.
+> Jag tar inget ansvar for eventuella fel, skador eller problem som kan uppsta
+> vid anvandning av denna programvara.
+
 Automatisk pipeline som lyssnar pa en Signal-grupp, tar emot meddelanden, formaterar dem som svenska M-blanketter (PDF) och skriver ut dem automatiskt.
 
 **Digitalt in. Analogt ut. Helt automatiskt.**
